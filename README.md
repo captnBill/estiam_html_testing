@@ -5,9 +5,10 @@ To start the application, follow these steps:
 1. Make sure you have Node.js installed on your machine.
 2. Open a terminal or command prompt.
 3. Navigate to the project directory.
-4. Run the following command:
+4. Run the following commands:
 
     ```bash
+    npm install
     node server.js
     ```
 
